@@ -1,293 +1,293 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" version="24.7.16">
   <diagram name="Страница — 1" id="Sr3ypWl--_1FnlIJtkq3">
-    <mxGraphModel dx="2732" dy="951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2923" dy="1046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nNFturb-hY3B3aRszfwS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNFturb-hY3B3aRszfwS-1" target="nNFturb-hY3B3aRszfwS-2">
+        <mxCell id="nNFturb-hY3B3aRszfwS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nNFturb-hY3B3aRszfwS-1" target="nNFturb-hY3B3aRszfwS-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-1" value="Считать координаты с консоли в переменную data и разбить их по &quot;-&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="40" width="160" height="80" as="geometry" />
+        <mxCell id="nNFturb-hY3B3aRszfwS-1" value="Считать координаты с консоли в переменную data и разбить их по &quot;-&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="40" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNFturb-hY3B3aRszfwS-2" target="nNFturb-hY3B3aRszfwS-3">
+        <mxCell id="nNFturb-hY3B3aRszfwS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nNFturb-hY3B3aRszfwS-2" target="nNFturb-hY3B3aRszfwS-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-2" value="Считать название фигуры в переменную figure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="160" width="160" height="80" as="geometry" />
+        <mxCell id="nNFturb-hY3B3aRszfwS-2" value="Считать название фигуры в переменную figure" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="160" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nNFturb-hY3B3aRszfwS-3" target="nNFturb-hY3B3aRszfwS-6">
+        <mxCell id="nNFturb-hY3B3aRszfwS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nNFturb-hY3B3aRszfwS-3" target="nNFturb-hY3B3aRszfwS-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-3" value="Записать разницу координат конца и начала в delta_x и delta_y" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="280" width="160" height="80" as="geometry" />
+        <mxCell id="nNFturb-hY3B3aRszfwS-3" value="Записать разницу координат конца и начала в delta_x и delta_y" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="280" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNFturb-hY3B3aRszfwS-6" target="nNFturb-hY3B3aRszfwS-8">
+        <mxCell id="nNFturb-hY3B3aRszfwS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nNFturb-hY3B3aRszfwS-6" target="nNFturb-hY3B3aRszfwS-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="520" y="440" />
+              <mxPoint x="120" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-24" value="Ладья" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nNFturb-hY3B3aRszfwS-17">
+        <mxCell id="nNFturb-hY3B3aRszfwS-24" value="Ладья" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nNFturb-hY3B3aRszfwS-17" vertex="1" connectable="0">
           <mxGeometry x="0.3317" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNFturb-hY3B3aRszfwS-6" target="nNFturb-hY3B3aRszfwS-12">
+        <mxCell id="nNFturb-hY3B3aRszfwS-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nNFturb-hY3B3aRszfwS-6" target="nNFturb-hY3B3aRszfwS-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-27" value="Королева" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nNFturb-hY3B3aRszfwS-18">
+        <mxCell id="nNFturb-hY3B3aRszfwS-27" value="Королева" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nNFturb-hY3B3aRszfwS-18" vertex="1" connectable="0">
           <mxGeometry x="0.7772" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNFturb-hY3B3aRszfwS-6" target="nNFturb-hY3B3aRszfwS-13">
+        <mxCell id="nNFturb-hY3B3aRszfwS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nNFturb-hY3B3aRszfwS-6" target="nNFturb-hY3B3aRszfwS-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-29" value="Король" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nNFturb-hY3B3aRszfwS-19">
+        <mxCell id="nNFturb-hY3B3aRszfwS-29" value="Король" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nNFturb-hY3B3aRszfwS-19" vertex="1" connectable="0">
           <mxGeometry x="0.8605" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNFturb-hY3B3aRszfwS-6" target="nNFturb-hY3B3aRszfwS-7">
+        <mxCell id="nNFturb-hY3B3aRszfwS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nNFturb-hY3B3aRszfwS-6" target="nNFturb-hY3B3aRszfwS-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="280" y="440" />
+              <mxPoint x="-120" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-25" value="Пешка" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nNFturb-hY3B3aRszfwS-20">
+        <mxCell id="nNFturb-hY3B3aRszfwS-25" value="Пешка" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nNFturb-hY3B3aRszfwS-20" vertex="1" connectable="0">
           <mxGeometry x="0.3476" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNFturb-hY3B3aRszfwS-6" target="nNFturb-hY3B3aRszfwS-9">
+        <mxCell id="nNFturb-hY3B3aRszfwS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nNFturb-hY3B3aRszfwS-6" target="nNFturb-hY3B3aRszfwS-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-26" value="Конь" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nNFturb-hY3B3aRszfwS-21">
+        <mxCell id="nNFturb-hY3B3aRszfwS-26" value="Конь" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nNFturb-hY3B3aRszfwS-21" vertex="1" connectable="0">
           <mxGeometry x="0.7772" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNFturb-hY3B3aRszfwS-6" target="nNFturb-hY3B3aRszfwS-11">
+        <mxCell id="nNFturb-hY3B3aRszfwS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nNFturb-hY3B3aRszfwS-6" target="nNFturb-hY3B3aRszfwS-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-28" value="Слон" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nNFturb-hY3B3aRszfwS-22">
+        <mxCell id="nNFturb-hY3B3aRszfwS-28" value="Слон" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nNFturb-hY3B3aRszfwS-22" vertex="1" connectable="0">
           <mxGeometry x="0.8664" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-6" value="Какая фигура ходит?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="400" width="160" height="80" as="geometry" />
+        <mxCell id="nNFturb-hY3B3aRszfwS-6" value="Какая фигура ходит?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="400" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNFturb-hY3B3aRszfwS-7" target="nNFturb-hY3B3aRszfwS-66">
+        <mxCell id="nNFturb-hY3B3aRszfwS-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nNFturb-hY3B3aRszfwS-7" target="nNFturb-hY3B3aRszfwS-66" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="220" y="630" />
-              <mxPoint x="220" y="630" />
+              <mxPoint x="-180" y="630" />
+              <mxPoint x="-180" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-90" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nNFturb-hY3B3aRszfwS-73">
+        <mxCell id="nNFturb-hY3B3aRszfwS-90" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nNFturb-hY3B3aRszfwS-73" vertex="1" connectable="0">
           <mxGeometry x="0.1209" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNFturb-hY3B3aRszfwS-7" target="nNFturb-hY3B3aRszfwS-65">
+        <mxCell id="nNFturb-hY3B3aRszfwS-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nNFturb-hY3B3aRszfwS-7" target="nNFturb-hY3B3aRszfwS-65" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="330" y="640" />
-              <mxPoint x="330" y="640" />
+              <mxPoint x="-70" y="640" />
+              <mxPoint x="-70" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-89" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nNFturb-hY3B3aRszfwS-74">
+        <mxCell id="nNFturb-hY3B3aRszfwS-89" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nNFturb-hY3B3aRszfwS-74" vertex="1" connectable="0">
           <mxGeometry x="0.0624" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-7" value="delta_x = 0 и (delta_y = 1 или delta_y = 2 в особом случае" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="520" width="200" height="120" as="geometry" />
+        <mxCell id="nNFturb-hY3B3aRszfwS-7" value="delta_x = 0 и (delta_y = 1 или delta_y = 2 в особом случае" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-220" y="520" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNFturb-hY3B3aRszfwS-8" target="nNFturb-hY3B3aRszfwS-68">
+        <mxCell id="nNFturb-hY3B3aRszfwS-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nNFturb-hY3B3aRszfwS-8" target="nNFturb-hY3B3aRszfwS-68" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="470" y="630" />
-              <mxPoint x="470" y="630" />
+              <mxPoint x="70" y="630" />
+              <mxPoint x="70" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-88" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nNFturb-hY3B3aRszfwS-75">
+        <mxCell id="nNFturb-hY3B3aRszfwS-88" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nNFturb-hY3B3aRszfwS-75" vertex="1" connectable="0">
           <mxGeometry x="0.1014" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNFturb-hY3B3aRszfwS-8" target="nNFturb-hY3B3aRszfwS-67">
+        <mxCell id="nNFturb-hY3B3aRszfwS-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nNFturb-hY3B3aRszfwS-8" target="nNFturb-hY3B3aRszfwS-67" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="570" y="630" />
-              <mxPoint x="570" y="630" />
+              <mxPoint x="170" y="630" />
+              <mxPoint x="170" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-87" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nNFturb-hY3B3aRszfwS-76">
+        <mxCell id="nNFturb-hY3B3aRszfwS-87" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nNFturb-hY3B3aRszfwS-76" vertex="1" connectable="0">
           <mxGeometry x="0.0624" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-8" value="delta_x * delta_y = 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="520" width="200" height="120" as="geometry" />
+        <mxCell id="nNFturb-hY3B3aRszfwS-8" value="delta_x * delta_y = 0" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="520" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNFturb-hY3B3aRszfwS-9" target="nNFturb-hY3B3aRszfwS-36">
+        <mxCell id="nNFturb-hY3B3aRszfwS-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nNFturb-hY3B3aRszfwS-9" target="nNFturb-hY3B3aRszfwS-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="90" y="600" />
-              <mxPoint x="90" y="600" />
+              <mxPoint x="-310" y="600" />
+              <mxPoint x="-310" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-91" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nNFturb-hY3B3aRszfwS-63">
+        <mxCell id="nNFturb-hY3B3aRszfwS-91" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nNFturb-hY3B3aRszfwS-63" vertex="1" connectable="0">
           <mxGeometry x="0.0819" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNFturb-hY3B3aRszfwS-9" target="nNFturb-hY3B3aRszfwS-37">
+        <mxCell id="nNFturb-hY3B3aRszfwS-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nNFturb-hY3B3aRszfwS-9" target="nNFturb-hY3B3aRszfwS-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-20" y="610" />
-              <mxPoint x="-20" y="610" />
+              <mxPoint x="-420" y="610" />
+              <mxPoint x="-420" y="610" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-92" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nNFturb-hY3B3aRszfwS-64">
+        <mxCell id="nNFturb-hY3B3aRszfwS-92" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nNFturb-hY3B3aRszfwS-64" vertex="1" connectable="0">
           <mxGeometry x="0.0819" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-9" value="|delta_x| + |delta_y| = 3&amp;nbsp;&lt;div&gt;и не&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;delta_x * delta_y = 0&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="520" width="200" height="120" as="geometry" />
+        <mxCell id="nNFturb-hY3B3aRszfwS-9" value="|delta_x| + |delta_y| = 3&amp;nbsp;&lt;div&gt;и не&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;delta_x * delta_y = 0&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-460" y="520" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.787;exitY=0.704;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="nNFturb-hY3B3aRszfwS-11" target="nNFturb-hY3B3aRszfwS-30">
+        <mxCell id="nNFturb-hY3B3aRszfwS-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.787;exitY=0.704;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="nNFturb-hY3B3aRszfwS-11" target="nNFturb-hY3B3aRszfwS-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-140" y="604" />
+              <mxPoint x="-540" y="604" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-93" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nNFturb-hY3B3aRszfwS-32">
+        <mxCell id="nNFturb-hY3B3aRszfwS-93" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nNFturb-hY3B3aRszfwS-32" vertex="1" connectable="0">
           <mxGeometry x="-0.0075" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-11" value="|delta_x| = |delta_y|" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="520" width="200" height="120" as="geometry" />
+        <mxCell id="nNFturb-hY3B3aRszfwS-11" value="|delta_x| = |delta_y|" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-700" y="520" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNFturb-hY3B3aRszfwS-12" target="nNFturb-hY3B3aRszfwS-69">
+        <mxCell id="nNFturb-hY3B3aRszfwS-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nNFturb-hY3B3aRszfwS-12" target="nNFturb-hY3B3aRszfwS-69" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="810" y="630" />
-              <mxPoint x="810" y="630" />
+              <mxPoint x="410" y="630" />
+              <mxPoint x="410" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-86" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nNFturb-hY3B3aRszfwS-79">
+        <mxCell id="nNFturb-hY3B3aRszfwS-86" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nNFturb-hY3B3aRszfwS-79" vertex="1" connectable="0">
           <mxGeometry x="-0.0546" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNFturb-hY3B3aRszfwS-12" target="nNFturb-hY3B3aRszfwS-70">
+        <mxCell id="nNFturb-hY3B3aRszfwS-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nNFturb-hY3B3aRszfwS-12" target="nNFturb-hY3B3aRszfwS-70" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="720" y="630" />
-              <mxPoint x="720" y="630" />
+              <mxPoint x="320" y="630" />
+              <mxPoint x="320" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-85" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nNFturb-hY3B3aRszfwS-80">
+        <mxCell id="nNFturb-hY3B3aRszfwS-85" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nNFturb-hY3B3aRszfwS-80" vertex="1" connectable="0">
           <mxGeometry x="0.0272" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-12" value="delta_x * delta_y = 0&amp;nbsp;&lt;div&gt;или&lt;div&gt;|delta_x| = |delta_y|&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="520" width="200" height="120" as="geometry" />
+        <mxCell id="nNFturb-hY3B3aRszfwS-12" value="delta_x * delta_y = 0&amp;nbsp;&lt;div&gt;или&lt;div&gt;|delta_x| = |delta_y|&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="520" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNFturb-hY3B3aRszfwS-13" target="nNFturb-hY3B3aRszfwS-72">
+        <mxCell id="nNFturb-hY3B3aRszfwS-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nNFturb-hY3B3aRszfwS-13" target="nNFturb-hY3B3aRszfwS-72" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="940" y="630" />
-              <mxPoint x="940" y="630" />
+              <mxPoint x="540" y="630" />
+              <mxPoint x="540" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-82" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nNFturb-hY3B3aRszfwS-77">
+        <mxCell id="nNFturb-hY3B3aRszfwS-82" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nNFturb-hY3B3aRszfwS-77" vertex="1" connectable="0">
           <mxGeometry x="0.0429" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nNFturb-hY3B3aRszfwS-13" target="nNFturb-hY3B3aRszfwS-71">
+        <mxCell id="nNFturb-hY3B3aRszfwS-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nNFturb-hY3B3aRszfwS-13" target="nNFturb-hY3B3aRszfwS-71" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1050" y="630" />
-              <mxPoint x="1050" y="630" />
+              <mxPoint x="650" y="630" />
+              <mxPoint x="650" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-81" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nNFturb-hY3B3aRszfwS-78">
+        <mxCell id="nNFturb-hY3B3aRszfwS-81" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nNFturb-hY3B3aRszfwS-78" vertex="1" connectable="0">
           <mxGeometry x="0.0234" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-13" value="|delta_x| &amp;lt;= 1&amp;nbsp;&lt;div&gt;и&lt;div&gt;|delta_y| &amp;lt;= 1&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="520" width="200" height="120" as="geometry" />
+        <mxCell id="nNFturb-hY3B3aRszfwS-13" value="|delta_x| &amp;lt;= 1&amp;nbsp;&lt;div&gt;и&lt;div&gt;|delta_y| &amp;lt;= 1&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="520" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-30" value="Вывести &quot;correct&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="680" width="80" height="40" as="geometry" />
+        <mxCell id="nNFturb-hY3B3aRszfwS-30" value="Вывести &quot;correct&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-580" y="680" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-31" value="Вывести &quot;uncorrect&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="680" width="80" height="40" as="geometry" />
+        <mxCell id="nNFturb-hY3B3aRszfwS-31" value="Вывести &quot;uncorrect&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-700" y="680" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.196;exitY=0.71;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="nNFturb-hY3B3aRszfwS-11" target="nNFturb-hY3B3aRszfwS-31">
+        <mxCell id="nNFturb-hY3B3aRszfwS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.196;exitY=0.71;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="nNFturb-hY3B3aRszfwS-11" target="nNFturb-hY3B3aRszfwS-31" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-260.43" y="604" as="sourcePoint" />
-            <mxPoint x="-260.43" y="680" as="targetPoint" />
+            <mxPoint x="-660.4300000000001" y="604" as="sourcePoint" />
+            <mxPoint x="-660.4300000000001" y="680" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-94" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nNFturb-hY3B3aRszfwS-33">
+        <mxCell id="nNFturb-hY3B3aRszfwS-94" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="nNFturb-hY3B3aRszfwS-33" vertex="1" connectable="0">
           <mxGeometry x="0.0361" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-36" value="Вывести &quot;correct&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="680" width="80" height="40" as="geometry" />
+        <mxCell id="nNFturb-hY3B3aRszfwS-36" value="Вывести &quot;correct&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-340" y="680" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-37" value="Вывести &quot;uncorrect&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="680" width="80" height="40" as="geometry" />
+        <mxCell id="nNFturb-hY3B3aRszfwS-37" value="Вывести &quot;uncorrect&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-460" y="680" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-65" value="Вывести &quot;correct&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="680" width="80" height="40" as="geometry" />
+        <mxCell id="nNFturb-hY3B3aRszfwS-65" value="Вывести &quot;correct&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="680" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-66" value="Вывести &quot;uncorrect&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="680" width="80" height="40" as="geometry" />
+        <mxCell id="nNFturb-hY3B3aRszfwS-66" value="Вывести &quot;uncorrect&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-220" y="680" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-67" value="Вывести &quot;correct&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="680" width="80" height="40" as="geometry" />
+        <mxCell id="nNFturb-hY3B3aRszfwS-67" value="Вывести &quot;correct&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="680" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-68" value="Вывести &quot;uncorrect&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="680" width="80" height="40" as="geometry" />
+        <mxCell id="nNFturb-hY3B3aRszfwS-68" value="Вывести &quot;uncorrect&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="680" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-69" value="Вывести &quot;correct&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="680" width="80" height="40" as="geometry" />
+        <mxCell id="nNFturb-hY3B3aRszfwS-69" value="Вывести &quot;correct&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="680" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-70" value="Вывести &quot;uncorrect&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="659.5" y="680" width="80" height="40" as="geometry" />
+        <mxCell id="nNFturb-hY3B3aRszfwS-70" value="Вывести &quot;uncorrect&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="259.5" y="680" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-71" value="Вывести &quot;correct&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="680" width="80" height="40" as="geometry" />
+        <mxCell id="nNFturb-hY3B3aRszfwS-71" value="Вывести &quot;correct&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="680" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nNFturb-hY3B3aRszfwS-72" value="Вывести &quot;uncorrect&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="680" width="80" height="40" as="geometry" />
+        <mxCell id="nNFturb-hY3B3aRszfwS-72" value="Вывести &quot;uncorrect&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="680" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
